@@ -1,3 +1,3 @@
 # entornos
 Apuntes ENTORNOS DE DESARROLLO
-Yussef El Hassani Chairi Kachaf
+Yussef El Hassani Chairi Kachaf.
